@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Patel Motor Driving School - Attendance System for tracking employee attendance">
+    <meta name="keywords" content="driving school, motor training, attendance, Ahmedabad, Gujarat">
+    <meta name="author" content="Patel Motor Driving School">
+    <meta property="og:title" content="Attendance System - Patel Motor Driving School">
+    <meta property="og:description" content="Customer contact page for Patel Motor Driving School">
+    <meta property="og:image" content="https://i.postimg.cc/hjWfjxGX/PMDS-text-W.png">
+    <meta property="og:url" content="https://maps.app.goo.gl/FYHLtcAZLfDRFLr66">
+    <link rel="shortcut icon" type="image/png" href="../assets/logo.png" />
+    <link rel="apple-touch-icon" href="https://i.postimg.cc/hjWfjxGX/PMDS-text-W.png">
+    <title>Contact Us - Patel Motor Driving School</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 15px;
+        }
+
+        .contact-header {
+            text-align: center;
+            padding: 40px 15px;
+            position: relative;
+            overflow: hidden;
+            height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .video-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+
+        .video-background video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: blur(3px);
+            transform: scale(1.1);
+            transition: all 0.3s ease;
+            animation: slowMotion 1s ease-out forwards;
+        }
+
+        @keyframes slowMotion {
+            from {
+                transform: scale(1);
+            }
+            to {
+                transform: scale(1.1);
+            }
+        }
+
+        .video-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(26, 42, 58, 0.75);
+            z-index: 1;
+        }
+
+        .contact-header h1 {
+            font-size: clamp(2rem, 5vw, 3rem);
+            margin-bottom: 15px;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            position: relative;
+            color: white;
+            z-index: 2;
+        }
+
+        .contact-header p {
+            font-size: clamp(1.1rem, 2.2vw, 1.3rem);
+            opacity: 0.95;
+            max-width: 600px;
+            margin: 0 auto;
+            position: relative;
+            color: white;
+            z-index: 2;
+        }
+
+        .contact-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 20px;
+        }
+
+        .contact-info {
+            background: white;
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            transition: all 0.4s ease;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .contact-info:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+        }
+
+        .contact-info h2 {
+            color: #1a2a3a;
+            margin-bottom: 25px;
+            font-size: clamp(1.4rem, 3vw, 1.6rem);
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .contact-info h2::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, #2980b9, #3498db);
+            border-radius: 2px;
+        }
+
+        .info-item {
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 10px;
+            border-radius: 12px;
+            transition: background-color 0.3s ease;
+        }
+
+        .info-item:hover {
+            background-color: rgba(0,0,0,0.02);
+        }
+
+        .info-item i {
+            color: #2980b9;
+            font-size: 1.4rem;
+            min-width: 24px;
+        }
+
+        .info-item p, .info-item a {
+            font-size: clamp(1rem, 2vw, 1.1rem);
+            word-break: break-word;
+            color: #444;
+        }
+
+        .info-item a {
+            color: #2980b9;
+            text-decoration: none;
+            transition: color 0.3s ease;
+            font-weight: 500;
+        }
+
+        .info-item a:hover {
+            color: #3498db;
+            text-decoration: underline;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 20px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 10px 0;
+        }
+
+        .social-links a img {
+            width: clamp(40px, 9vw, 45px);
+            height: clamp(40px, 9vw, 45px);
+            transition: all 0.4s ease;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+        }
+
+        .social-links a img:hover {
+            transform: scale(1.2) rotate(5deg);
+            filter: drop-shadow(0 6px 8px rgba(0,0,0,0.15));
+        }
+
+        .map-container {
+            margin-top: 40px;
+            padding: 20px;
+        }
+
+        .map-container iframe {
+            width: 100%;
+            height: clamp(300px, 55vw, 450px);
+            border-radius: 20px;
+            border: none;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 8px;
+            }
+
+            .contact-header {
+                padding: 20px 10px;
+                height: 40vh;
+            }
+
+            .contact-header h1 {
+                font-size: 1.8rem;
+            }
+
+            .contact-header p {
+                font-size: 1rem;
+            }
+
+            .contact-content {
+                padding: 10px;
+                gap: 15px;
+            }
+
+            .contact-info {
+                padding: 20px;
+            }
+
+            .contact-info h2 {
+                font-size: 1.3rem;
+                margin-bottom: 20px;
+            }
+
+            .info-item {
+                flex-direction: column;
+                align-items: flex-start;
+                text-align: left;
+                gap: 6px;
+                margin-bottom: 15px;
+                padding: 8px;
+            }
+
+            .info-item i {
+                font-size: 1.2rem;
+            }
+
+            .info-item p, .info-item a {
+                font-size: 0.9rem;
+            }
+
+            .social-links {
+                justify-content: space-around;
+                gap: 12px;
+                margin-top: 20px;
+            }
+
+            .social-links a img {
+                width: 35px;
+                height: 35px;
+            }
+
+            .whatsapp-float {
+                bottom: 10px;
+                right: 10px;
+            }
+
+            .whatsapp-float img {
+                width: 45px;
+                height: 45px;
+            }
+
+            .map-container {
+                margin-top: 25px;
+                padding: 10px;
+            }
+
+            .map-container iframe {
+                height: 250px;
+                border-radius: 15px;
+            }
+            .logo {
+                height: 39px;
+                width: auto;
+            }
+        }
+
+        header {
+            background: linear-gradient(135deg, #1a2a3a 0%, #2c3e50 100%);
+            padding: 15px 0;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            position: relative;
+            z-index: 10;
+        }
+
+        .logo {
+            height: 40px;
+            width: auto;
+            transition: transform 0.3s ease;
+        }
+
+        .logo:hover {
+            transform: scale(1.05);
+        }
+
+        .whatsapp-float {
+            position: fixed;
+            bottom: 25px;
+            right: 25px;
+            z-index: 1000;
+            filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+        }
+
+        .whatsapp-float img {
+            width: 65px;
+            height: 65px;
+            transition: all 0.4s ease;
+        }
+
+        .whatsapp-float img:hover {
+            transform: scale(1.15) rotate(10deg);
+            filter: brightness(1.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://i.postimg.cc/PqDyKvCH/PMDS-text-W.png" alt="Company Logo" class="logo" data-aos="fade-down">
+    </header>
+    <div class="contact-header">
+        <div class="video-background">
+            <video autoplay muted loop playbackRate="0.7">
+                <source src="../assets/contact_backdrop.mp4" type="video/mp4">
+            </video>
+            <div class="video-overlay"></div>
+        </div>
+        <h1 data-aos="fade-down" data-aos-duration="1000">Contact Us</h1>
+        <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">Get in touch with us for any inquiries or assistance</p>
+    </div>
+
+    <div class="container">
+        <div class="contact-content">
+            <div class="contact-info" data-aos="fade-right" data-aos-duration="1000">
+                <h2>Contact Information</h2>
+                <div class="info-item" data-aos="fade-up" data-aos-delay="100">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <p>Patel Motor Driving School, Ahmedabad, Gujarat</p>
+                </div>
+                <div class="info-item" data-aos="fade-up" data-aos-delay="200">
+                    <i class="fas fa-phone"></i>
+                    <p>+91 9725603403, +91 7016655237</p>
+                </div>
+                <div class="info-item" data-aos="fade-up" data-aos-delay="300">
+                    <i class="fas fa-envelope"></i>
+                    <p><a href="mailto:patelmotordrivingschool1985@gmail.com">patelmotordrivingschool1985@gmail.com</a></p>
+                </div>
+                <div class="social-links" data-aos="fade-up" data-aos-delay="400">
+                    <a href="https://maps.app.goo.gl/VU13ZPf6ukhgV1w19" target="_blank">
+                        <img src="https://i.postimg.cc/LXFLNyP4/61488124d329bb0004dbd345.png" alt="Google Maps">
+                    </a>
+                    <a href="https://www.facebook.com/PatelMotorDrivingSchool/" target="_blank">
+                        <img src="https://i.postimg.cc/2jTqwbgG/pngwing-com-1.png" alt="Facebook">
+                    </a>
+                    <a href="https://www.instagram.com/patelmotordrivingschool" target="_blank">
+                        <img src="https://i.postimg.cc/Dw2mbqvn/pngwing-com-2.png" alt="Instagram">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="map-container" data-aos="zoom-in" data-aos-duration="1000">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7675095862287!2d72.61403847475956!3d23.000839384957723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e87acc61d96f3%3A0x12bfb739b50476f6!2sPatel%20Motor%20Driving%20School!5e0!3m2!1sen!2sin!4v1708778427099!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+    
+
+    <a href="https://wa.me/917016655237" class="whatsapp-float" target="_blank" data-aos="fade-up">
+        <img src="https://i.postimg.cc/c4sjGxpQ/image.png" alt="WhatsApp">
+    </a>
+
+    <script src="https://kit.fontawesome.com/your-font-awesome-kit.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+            once: true,
+            mirror: false,
+            offset: 100
+        });
+    </script>
+</body>
+</html>

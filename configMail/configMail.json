@@ -1,0 +1,20 @@
+[
+    {
+        "config-mail": {
+            "email": "drivepulse@eternalbytes.in",
+            "password": "@Bobby2005123@"
+        },
+        "config-mail-data": {
+            "mail-title": "Booking Receipt",
+            "mail-header-logo": "https:\/\/patelmotordrivingschool.com\/storage\/images\/pmds-assets\/pmds-text-b-crop.png",
+            "mail-subject": "Booking Receipt - Drive Pulse",
+            "mail-greetings": "Hi",
+            "mail-heading": "Booking Receipt",
+            "mail-contact-number": "+91 9725603403",
+            "mail-company-name": "Drive Pulse",
+            "mail-paragraph": [
+                "<p>Thank you for choosing Our Driving School for your vehicle training booking. We are excited to provide you with the details of your session. Please find the attached PDF receipt for your reference.<\/p>"
+            ]
+        }
+    }
+]

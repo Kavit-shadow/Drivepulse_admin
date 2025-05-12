@@ -1,0 +1,14 @@
+Options -Indexes
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^.]+)$ $1.html [NC,L]
+
+
+ErrorDocument 404 /404.html
+    
+RewriteCond %{QUERY_STRING} ^id=([^&]*)$
+RewriteRule ^attendance/uid/$ attendance/uid/$1 [R=301,L]
+RewriteRule ^attendance/uid/([^/]+)/?$ attendance/uid/index.php?id=$1 [L,QSA]

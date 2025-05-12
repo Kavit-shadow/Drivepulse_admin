@@ -1,0 +1,30 @@
+
+.sidebar-footer {
+	height: 20%;
+	width: 100%;
+	display: flex;
+	justify-content: start;
+	align-items: end;
+	padding: 1rem;
+
+}
+
+.software-info {
+	width: 100%;
+	background-color: #eeeeee;
+	font-weight: 700;
+	font-size: .9rem;
+	padding: .9rem;
+	padding-left: .5rem;
+	border-radius: .5rem;
+
+}
+
+#dev-info {
+	font-size: .6rem;
+	letter-spacing: 1px;
+}
+
+.hide-footer {
+	display: none;
+}

@@ -1,0 +1,101 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+*{
+   font-family: 'Poppins', sans-serif;
+  
+ 
+} */
+
+#content {
+	background-color: #333;
+	height: fit-content;
+	padding: 10px;
+	width: 100%;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 20px;
+	height: 100%;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.btn-s{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 7px;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	flex: 1;
+}
+
+.text h3 {
+	overflow: hidden;
+	margin: 0;
+	font-size: clamp(1rem, 4vw, 1.5rem);
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.profile img {
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+
+.home-link {
+	color: white;
+	text-decoration: none;
+	padding: 6px 12px;
+	background-color: #0084ff;
+	border-radius: 4px;
+	transition: background-color 0.3s ease;
+	font-size: 0.9rem;
+	white-space: nowrap;
+}
+
+.home-link:hover {
+	background-color: #0066cc;
+}
+
+.home-link:focus,
+.home-link:active {
+	outline: none;
+	background-color: #004499;
+}
+
+.home-link,
+.home-link:hover,
+.home-link:focus,
+.home-link:active {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+	nav {
+		padding: 0 10px;
+		justify-content: center;
+	}
+	
+	.text h3 {
+		font-size: 1rem;
+	}
+	
+	.home-link {
+		padding: 4px 8px;
+		font-size: 0.8rem;
+	}
+	
+	.profile img {
+		width: 30px;
+		height: 30px;
+	}
+}

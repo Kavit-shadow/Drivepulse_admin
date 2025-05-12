@@ -1,0 +1,80 @@
+{
+    "name": "Patel Motors Driving School",
+    "short_name": "Patel Motors",
+    "description": "Driving School Management System for handling students, scheduling, and training resources by DrivePulse",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "categories": [
+        "education",
+        "driving",
+        "training",
+        "management"
+    ],
+    "lang": "en",
+    "dir": "ltr",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://patelmotordrivingschool.com/storage/images/icons/icon-logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://patelmotordrivingschool.com/storage/images/icons/icon-logo-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "https://patelmotordrivingschool.com/storage/images/pmds-assets/msic/desktop-ui-ss.png",
+            "sizes": "1600x900",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Desktop view of the application interface"
+        },
+        {
+            "src": "https://patelmotordrivingschool.com/storage/images/pmds-assets/msic/phone-ui-ss.png",
+            "sizes": "340x764",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Mobile view of the application interface"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Admin Panel",
+            "url": "/admin",
+            "description": "School management controls",
+            "icons": [
+                {
+                    "src": "https://patelmotordrivingschool.com/storage/images/icons/icon-logo-96x96.jpg",
+                    "sizes": "96x96",
+                    "type": "image/jpg"
+                }
+            ]
+        },
+        {
+            "name": "Trainer Portal", 
+            "url": "/trainer",
+            "description": "Access trainer dashboard and student records",
+            "icons": [
+                {
+                    "src": "https://patelmotordrivingschool.com/storage/images/icons/icon-logo-96x96.jpg",
+                    "sizes": "96x96",
+                    "type": "image/jpg"
+                }
+            ]
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://app.patelmotordrivingschool.com"
+        }
+    ]
+}

@@ -1,0 +1,3157 @@
+[
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "8780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-18T05:12:56.592Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Hemal Patel",
+            "phone": "9725603403",
+            "email": "hemal.babaraj30@gmail.com"
+        },
+        "bookingDate": "2025-01-18T05:28:37.350Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "NILAM PATEL",
+            "phone": "09825097453",
+            "email": "classicbuildpro@gmail.com"
+        },
+        "bookingDate": "2025-01-18T05:31:29.119Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Premium Combine 1",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93800",
+            "duration": "15 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Minecraft Show",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-18T07:40:14.910Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Luxurious Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "11:30 AM - 12:00 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-18T07:59:35.523Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Luxurious Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "12:00 PM - 12:30 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-18T12:46:18.377Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Minecraft Show",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-18T14:04:19.791Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Mohit Rathi",
+            "phone": "8700385866",
+            "email": "mohitrathi176@gmail.com"
+        },
+        "bookingDate": "2025-01-19T08:29:35.690Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T08:36:02.056Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T13:43:18.966Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T13:46:40.601Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "12:30 PM - 01:00 PM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T13:49:48.781Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "10:00 AM - 10:30 AM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T13:57:35.519Z"
+    },
+    {
+        "package": {
+            "id": 5,
+            "name": "Gold Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "7 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 10 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "11:00 AM - 11:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "8780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T15:01:30.210Z"
+    },
+    {
+        "package": {
+            "id": 6,
+            "name": "Gold Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "5 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 8 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:30 PM",
+            "available": true,
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Bobby",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T15:19:05.508Z"
+    },
+    {
+        "package": {
+            "id": 9,
+            "name": "Platinum Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92100",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": false,
+            "end_date": "2025-01-20",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T16:04:55.487Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Bobby",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T16:12:34.343Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": false,
+            "end_date": "2025-02-03",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T16:38:41.583Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Premium Combine 1",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93800",
+            "duration": "15 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-19T17:23:30.942Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Platinum Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "NILAM PATEL",
+            "phone": "09825097453",
+            "email": "classicbuildpro@gmail.com"
+        },
+        "bookingDate": "2025-01-19T17:30:56.035Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "02:30 PM - 03:00 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Rennie Christian ",
+            "phone": "9898944322",
+            "email": "renniem883@gmail.com"
+        },
+        "bookingDate": "2025-01-21T09:00:07.637Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Jaymin",
+            "phone": "8980758315",
+            "email": "gohiljaymin82@gmail.com"
+        },
+        "bookingDate": "2025-01-22T11:06:17.530Z"
+    },
+    {
+        "package": {
+            "id": 4,
+            "name": "Gold Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "7 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 10 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "09:00 AM - 09:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Makwana Nidhi Rajendrakumar ",
+            "phone": "9313646667",
+            "email": "makwananidhirajendrbhai@gmail.com"
+        },
+        "bookingDate": "2025-01-26T09:21:22.066Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "08:30 AM - 09:00 AM",
+            "available": false,
+            "end_date": "2025-01-31",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Narayan Guleriya ",
+            "phone": "7073166326",
+            "email": "ngchoudhary15@gmail.com"
+        },
+        "bookingDate": "2025-01-28T03:57:44.266Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "01:30 PM - 02:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Rehan Shailesh Christian ",
+            "phone": "9825669541",
+            "email": "sac8824@gmail.com"
+        },
+        "bookingDate": "2025-01-28T06:30:57.037Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Damini kashyap",
+            "phone": "8460321852",
+            "email": "karmashila122@gmail.com"
+        },
+        "bookingDate": "2025-01-28T13:35:10.089Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:45 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-28T16:45:35.456Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "08:30 AM - 09:15 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "8780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-01-28T16:53:45.524Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "JIBIT GORE ",
+            "phone": "7980938100",
+            "email": "jibitgoree@gmail.com"
+        },
+        "bookingDate": "2025-01-29T08:22:55.181Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "JIBIT GORE ",
+            "phone": "7980938100",
+            "email": "jibitgoree@gmail.com"
+        },
+        "bookingDate": "2025-01-29T08:23:00.420Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Meghala Mudaliar",
+            "phone": "09727331787",
+            "email": "meghala16.r@gmail.com"
+        },
+        "bookingDate": "2025-01-29T13:35:52.572Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "06:30 PM - 07:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Suchita Macwan",
+            "phone": "9913766678",
+            "email": "suchita202@gmail.com"
+        },
+        "bookingDate": "2025-01-29T15:04:09.540Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:45 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Epasita Vidyarthi",
+            "phone": "09470039323",
+            "email": "ipsvidyarthi1@gmail.com"
+        },
+        "bookingDate": "2025-01-29T16:00:07.728Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "09:30 AM - 10:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Shah Aashi Manishkumar",
+            "phone": "8320445313",
+            "email": "aashishah305@gmail.com"
+        },
+        "bookingDate": "2025-01-30T10:52:00.437Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "01:45 PM - 02:30 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Guddu shekhawat ",
+            "phone": "7622841851",
+            "email": "shekhawatmonushekhawat48@gmail.com"
+        },
+        "bookingDate": "2025-01-30T16:35:11.202Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "11:30 AM - 12:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Solanki Gopalbhai Bijalbhai",
+            "phone": "9537992510",
+            "email": "solankigopal0@gmail.com"
+        },
+        "bookingDate": "2025-01-31T09:44:02.633Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Aadil dastan",
+            "phone": "07990571068",
+            "email": "aadildastan300@gmail.com"
+        },
+        "bookingDate": "2025-01-31T10:40:01.323Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "10:30 AM - 11:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Nitin yadav",
+            "phone": "6352581525",
+            "email": "yj623023@gmail.com"
+        },
+        "bookingDate": "2025-01-31T12:18:40.400Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "05:30 PM - 06:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Lalit Joshi",
+            "phone": "7016383057",
+            "email": "lalitjoshi8866@gmail.com"
+        },
+        "bookingDate": "2025-01-31T12:41:20.229Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "10:00 AM - 10:45 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Anika Manish Kumar ",
+            "phone": "7014936264",
+            "email": "cmanish568@gmail.com"
+        },
+        "bookingDate": "2025-01-31T12:58:31.387Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "11:00 AM - 11:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Resseff Macwan",
+            "phone": "9157990212",
+            "email": "resseffmacwan212@gmail.com"
+        },
+        "bookingDate": "2025-02-03T12:40:30.724Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Naren",
+            "phone": "8160951311",
+            "email": "npandya4574@gmail.com"
+        },
+        "bookingDate": "2025-02-03T14:11:00.166Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "05:30 PM - 06:00 PM",
+            "available": false,
+            "end_date": "2025-02-19",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Kunjan",
+            "phone": "8734953805",
+            "email": "kunjanmehta1506@gmail.com"
+        },
+        "bookingDate": "2025-02-03T14:12:26.492Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Platinum Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "10:30 AM - 11:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Dhairya Dhapodkar ",
+            "phone": "9316715607",
+            "email": "dhairyadhapodkar26@gmail.com"
+        },
+        "bookingDate": "2025-02-04T06:12:08.914Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Platinum Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "11:00 AM - 11:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Hiteesha dhapodkar ",
+            "phone": "8780324772",
+            "email": "hiteesha.5902@gmail.com"
+        },
+        "bookingDate": "2025-02-04T06:14:47.375Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Cecil christian",
+            "phone": "9979205095",
+            "email": "cecilc.pioneer@gmail.com"
+        },
+        "bookingDate": "2025-02-04T12:56:05.554Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Sanket chourasiya",
+            "phone": "8401963889",
+            "email": "pcchourasiya889@gmail.com"
+        },
+        "bookingDate": "2025-02-06T04:57:22.536Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "08:30 AM - 09:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Prayag malpani",
+            "phone": "8799175702",
+            "email": "prayagmalpani879@gmail.com"
+        },
+        "bookingDate": "2025-02-07T04:16:18.726Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "09:00 AM - 09:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Keshav malpani",
+            "phone": "8000500005",
+            "email": "keshavswastika@gmail.com"
+        },
+        "bookingDate": "2025-02-08T04:40:24.220Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Christian selvina jolifbhai ",
+            "phone": "9601667799",
+            "email": "christianselvina854@gmail.com"
+        },
+        "bookingDate": "2025-02-08T13:03:35.979Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Ekta dodeja",
+            "phone": "9328685342",
+            "email": "yogidodeja16@gmail.com"
+        },
+        "bookingDate": "2025-02-12T04:09:45.501Z"
+    },
+    {
+        "package": {
+            "id": 9,
+            "name": "Premium Combine 3",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "Manual only",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Dhiraj kumar ",
+            "phone": "9358286995",
+            "email": "ajjubhaisarma26@gmail.com"
+        },
+        "bookingDate": "2025-02-12T08:08:28.398Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "09:30 AM - 10:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Dhaval Mehta",
+            "phone": "9825129576",
+            "email": "fundingcart2020@gmail.com"
+        },
+        "bookingDate": "2025-02-12T09:31:07.040Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "02:30 PM - 03:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Divya Tumu ",
+            "phone": "9998201560",
+            "email": "divyatumu19@gmail.com"
+        },
+        "bookingDate": "2025-02-13T07:03:41.909Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "SACHIN",
+            "phone": "8141275168",
+            "email": "sachinpatel141094@gmail.com"
+        },
+        "bookingDate": "2025-02-14T05:53:21.637Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Premium Combine 1",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93800",
+            "duration": "15 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "08:30 AM - 09:00 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Aakash Wawre",
+            "phone": "8200759756",
+            "email": "aakashwawre5200@gmail.com"
+        },
+        "bookingDate": "2025-02-20T13:59:39.936Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Premium Combine 1",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93800",
+            "duration": "15 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "09:00 AM - 09:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Hitesh Apte",
+            "phone": "8866748955",
+            "email": "hiteshaapte977@gmail.com"
+        },
+        "bookingDate": "2025-02-20T14:02:42.223Z"
+    },
+    {
+        "package": {
+            "id": 6,
+            "name": "Gold Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "5 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 8 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "10:00 AM - 10:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Shital patel",
+            "phone": "9512385023",
+            "email": "shitalpatel82@yahoo.com"
+        },
+        "bookingDate": "2025-02-21T05:52:20.895Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "03:30 PM - 04:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ami Radadiya",
+            "phone": "8732910694",
+            "email": "amishah7642@gmail.com"
+        },
+        "bookingDate": "2025-02-24T11:24:55.503Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": false,
+            "end_date": "2025-02-24",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "HETAL B THALESAR ",
+            "phone": "8200721963",
+            "email": "diamondenterprise386@gmail.com"
+        },
+        "bookingDate": "2025-02-24T13:11:52.222Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ayush",
+            "phone": "08780911285",
+            "email": "bobby200543676@gmail.com"
+        },
+        "bookingDate": "2025-02-24T13:26:11.652Z"
+    },
+    {
+        "package": {
+            "id": 9,
+            "name": "Platinum Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92100",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "09:30 AM - 10:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Christian sheba shefali Edgar ",
+            "phone": "9725603403",
+            "email": "hemal.babaraj30@gmail.com"
+        },
+        "bookingDate": "2025-02-24T15:14:11.938Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "03:30 PM - 04:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ami Radadiya",
+            "phone": "0415754541",
+            "email": "amishah7642@gmail.com"
+        },
+        "bookingDate": "2025-02-24T18:09:29.768Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "03:30 PM - 04:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ami Radadiya ",
+            "phone": "8732910694",
+            "email": "amishah7642@gmail.com"
+        },
+        "bookingDate": "2025-02-24T18:15:12.953Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": false,
+            "end_date": "2025-02-24",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Priyanka Khilwani ",
+            "phone": "8866820110",
+            "email": "pkhilwani08@gmail.com"
+        },
+        "bookingDate": "2025-02-26T08:56:25.614Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": false,
+            "end_date": "2025-02-28",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Hitesh kumar ",
+            "phone": "8949210329",
+            "email": "hiteshsuthar280811@gmail.com"
+        },
+        "bookingDate": "2025-02-26T11:59:19.759Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "07:30 AM - 08:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Naitik Patel",
+            "phone": "9898014372",
+            "email": "nillsroy07@gmail.com"
+        },
+        "bookingDate": "2025-02-26T14:13:55.784Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "11:00 AM - 11:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Sangeet kumar kuril",
+            "phone": "9727160934",
+            "email": "sangeetnote@gmail.com"
+        },
+        "bookingDate": "2025-02-27T02:42:25.212Z"
+    },
+    {
+        "package": {
+            "id": 4,
+            "name": "Gold Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "7 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 10 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Nayan Jetha ",
+            "phone": "9313124637",
+            "email": "nayanjetha2446@gmail.com"
+        },
+        "bookingDate": "2025-02-27T07:00:15.115Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": false,
+            "end_date": "2025-03-01",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Hiral Patel",
+            "phone": "7202029506",
+            "email": "heer.vadera2697@gmail.com"
+        },
+        "bookingDate": "2025-02-28T08:47:18.899Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "09:30 AM - 10:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Shriram malpani",
+            "phone": "08799175702",
+            "email": "prayagmalpani879@gmail.com"
+        },
+        "bookingDate": "2025-02-28T14:27:54.738Z"
+    },
+    {
+        "package": {
+            "id": 8,
+            "name": "Platinum Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "10 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 13 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "06:30 PM - 07:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Ruchika Ailani",
+            "phone": "9727625677",
+            "email": "ailaniruchi@gmail.com"
+        },
+        "bookingDate": "2025-03-06T07:38:48.180Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "01:00 PM - 01:45 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Vishwakarma Nandani Surendra ",
+            "phone": "7436075906",
+            "email": "vishwakarmanandani251@gmail.com"
+        },
+        "bookingDate": "2025-03-06T12:34:34.335Z"
+    },
+    {
+        "package": {
+            "id": 4,
+            "name": "Gold Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "7 Days",
+            "features": [
+                "45 Minutes per Session",
+                "10-11 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 10 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Avani Bhatt",
+            "phone": "8866036360",
+            "email": "avanibhatt.royal@gmail.com"
+        },
+        "bookingDate": "2025-03-08T16:27:49.271Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "05:30 PM - 06:00 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Darshil shah",
+            "phone": "8469467471",
+            "email": "shahdarshil0303@gmail.com"
+        },
+        "bookingDate": "2025-03-10T06:24:34.198Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "10:45 AM - 11:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Asha Parmar",
+            "phone": "9328053538",
+            "email": "amrangvala@gmail.com"
+        },
+        "bookingDate": "2025-03-10T08:42:28.517Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "12:00 PM - 12:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "KUSH SANDEEP JANI ",
+            "phone": "8160457306",
+            "email": "janikush85@gmail.com"
+        },
+        "bookingDate": "2025-03-10T13:33:48.956Z"
+    },
+    {
+        "package": {
+            "id": 11,
+            "name": "Two Wheeler",
+            "vehicleType": "Scooty",
+            "price": "\u20b92500",
+            "duration": "8 Days",
+            "features": [
+                "With Lady Trainer",
+                "45 Minutes per Session"
+            ],
+            "note": "Note: Valid for 10 days including Sundays."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Scooty"
+        },
+        "timeSlot": {
+            "time": "07:00 PM - 07:45 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Scooty"
+        },
+        "userDetails": {
+            "name": "Varenya Jathal",
+            "phone": "09099098550",
+            "email": "clientfirst.holidays@gmail.com"
+        },
+        "bookingDate": "2025-03-11T10:58:55.225Z"
+    },
+    {
+        "package": {
+            "id": 10,
+            "name": "Emerald Combine",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b94200",
+            "duration": "20 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 25 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Shashirekha Sengunthar ",
+            "phone": "6353823966",
+            "email": "rekhamudaliar30@gmail.com"
+        },
+        "bookingDate": "2025-03-17T06:57:36.947Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Adnan Arif",
+            "phone": "7906479745",
+            "email": "2003adnanali1601@gmail.com"
+        },
+        "bookingDate": "2025-03-17T14:07:20.633Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Adnan Arif",
+            "phone": "7906479745",
+            "email": "2003adnanali1601@gmail.com"
+        },
+        "bookingDate": "2025-03-17T14:07:27.692Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "03:30 PM - 04:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Hasan Arif",
+            "phone": "7906479745",
+            "email": "adnanarif.bsac@gmail.com"
+        },
+        "bookingDate": "2025-03-17T14:43:53.265Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Punitkumar Tewani",
+            "phone": "9265517932",
+            "email": "tewanipunitkumar@gmail.com"
+        },
+        "bookingDate": "2025-03-19T17:52:19.085Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "01:00 PM - 01:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Nilam Parmar",
+            "phone": "9104772091",
+            "email": "mail.nilamparmar@gmail.com"
+        },
+        "bookingDate": "2025-03-20T07:07:31.639Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "08:30 AM - 09:00 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Varsha Tevani",
+            "phone": "9824373383",
+            "email": "varshatevani33@gmail.com"
+        },
+        "bookingDate": "2025-03-20T07:17:15.730Z"
+    },
+    {
+        "package": {
+            "id": 9,
+            "name": "Premium Combine 3",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "Manual only",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "08:00 AM - 08:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Parth Shah",
+            "phone": "8128064902",
+            "email": "parthshahb51094@gmail.com"
+        },
+        "bookingDate": "2025-03-21T09:19:36.718Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "03:00 PM - 03:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Shankar Laxman Gaykwad",
+            "phone": "9773193074",
+            "email": "gaykwadshankar515@gmail.com"
+        },
+        "bookingDate": "2025-03-22T05:22:08.670Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:30 PM - 08:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Kalpesh Joshi",
+            "phone": "9023118114",
+            "email": "jkalpesh011@gmail.com"
+        },
+        "bookingDate": "2025-03-25T03:37:45.624Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": false,
+            "end_date": "2025-04-01",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Nanji bhai",
+            "phone": "83061 58047",
+            "email": "savalsingh048@gmail.com"
+        },
+        "bookingDate": "2025-03-25T11:33:18.210Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:13.423Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:14.928Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:16.074Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:16.534Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:17.024Z"
+    },
+    {
+        "package": {
+            "id": 2,
+            "name": "Standard Manual",
+            "vehicleType": "Sedan",
+            "price": "\u20b92800",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "28",
+            "name": "Verna"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": false,
+            "end_date": "2025-04-04",
+            "vehicleId": "28",
+            "vehicleName": "Verna"
+        },
+        "userDetails": {
+            "name": "Ajay",
+            "phone": "8511428037",
+            "email": "Ajaykajavani@gmail.com"
+        },
+        "bookingDate": "2025-03-28T10:54:17.157Z"
+    },
+    {
+        "package": {
+            "id": 1,
+            "name": "Standard Automatic",
+            "vehicleType": "Hatchback",
+            "price": "\u20b93500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "22",
+            "name": "WagonR"
+        },
+        "timeSlot": {
+            "time": "05:00 PM - 05:30 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "22",
+            "vehicleName": "WagonR"
+        },
+        "userDetails": {
+            "name": "Namrata Gilani",
+            "phone": "8320082240",
+            "email": "namgil1990@gmail.com"
+        },
+        "bookingDate": "2025-03-29T06:11:10.141Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "09:00 AM - 09:30 AM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Mihir Goradiya ",
+            "phone": "9429021410",
+            "email": "mihirgoradiya1998@gmail.com"
+        },
+        "bookingDate": "2025-03-30T11:48:22.207Z"
+    },
+    {
+        "package": {
+            "id": 3,
+            "name": "Standard Manual",
+            "vehicleType": "Hatchback",
+            "price": "\u20b92500",
+            "duration": "15 Days",
+            "features": [
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 18 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Toyota Liva"
+        },
+        "timeSlot": {
+            "time": "05:30 PM - 06:00 PM",
+            "available": true,
+            "end_date": "0000-00-00",
+            "vehicleId": "1",
+            "vehicleName": "Toyota Liva"
+        },
+        "userDetails": {
+            "name": "Gavya panchal ",
+            "phone": "7048795779",
+            "email": "Gavyapanchal222@gmail.com"
+        },
+        "bookingDate": "2025-03-31T08:54:50.041Z"
+    },
+    {
+        "package": {
+            "id": 7,
+            "name": "Premium Combine 1",
+            "vehicleType": "Sedan + Hatchback",
+            "price": "\u20b93800",
+            "duration": "15 Days",
+            "features": [
+                "Automatic + Manual",
+                "Sedan + Hatchback",
+                "30 Minutes per Session",
+                "5-7 KM Distance",
+                "No A\/C"
+            ],
+            "note": "Note: Valid for 20 days including Sundays. AC available at additional charge of \u20b9300."
+        },
+        "vehicle": {
+            "id": "1",
+            "name": "Combine Vehicle"
+        },
+        "timeSlot": {
+            "time": "07:00 AM - 07:30 AM",
+            "available": true,
+            "vehicleId": "1",
+            "vehicleName": "Combine Vehicle"
+        },
+        "userDetails": {
+            "name": "Brisco Alisha Richardson ",
+            "phone": "7874127460",
+            "email": "briscoalisha53@gmail.com"
+        },
+        "bookingDate": "2025-03-31T08:59:37.933Z"
+    }
+]
