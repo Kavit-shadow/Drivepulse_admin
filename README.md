@@ -72,7 +72,7 @@ It reflects my dedication to delivering practical software solutions that are bo
 ## 📞 Contact
 
 **Kavit Patel**  
-📧 Email: kavitpatel1574.kp@gmail.com  
-🔗 GitHub: [github.com/Kavit-shadow](https://github.com/Kavit-shadow)  
-💼 LinkedIn: [linkedin.com/in/kavit-patel](https://www.linkedin.com/in/kavit-patel-84597a26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📧 Email: [Contact by mail](mailto:kavitpatel1574.kp@gmail.com)  
+🔗 GitHub: [Kavit-shadow](https://github.com/Kavit-shadow)  
+💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/kavit-patel-84597a26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 📍 Location: Ahmedabad, Gujarat
